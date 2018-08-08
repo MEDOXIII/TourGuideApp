@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="category_pyramids">Pyramids</string>
+    <string name="category_luxor">Luxor</string>.
+    <string name="category_islamic">Islamic Cairo</string>
+    <string name="category_saint">St.Catherine</string>
+
+    <string name="pyramids_info">The last surviving of the Seven Wonders of the Ancient World,the Pyramids of Giza are one of the world"s most recognisable landmarks. Built as tombs for the mighty Pharaohs and guarded by the enigmatic Sphinx,Giza"s pyramid complex has awed travelers down through the ages and had archaeologists (and a fair few conspiracy theorists) scratching their heads over how they were built for centuries.Today, these megalithic memorials to dead kings are still as wondrous a sight as they ever were.An undeniable highlight of any Egypt trip, Giza's pyramids should not be missed.</string>
+
+    <string name="luxor_info">Famed for the Valley of the Kings, Karnak Temple, and the Memorial Temple of Hatshepsut,the Nile-side town of Luxor in Upper Egypt has a glut of tourist attractions.This is ancient Thebes, powerbase of the New Kingdom pharaohs, and home to more sights than most can see on one visit.While the East Bank brims with vibrant souk action, the quieter West Bank is home to a bundle of tombs and temples that has been called the biggest open air museum in the world.Spend a few days here exploring the colorful wall art of the tombs and gazing in awe at the colossal columns in the temples,and you"ll see why Luxor continues to fascinate historians and archaeologists.</string>
+
+    <string name="islamic_info">The atmospheric, narrow lanes of the capital"s Islamic Cairo district are crammed full of mosques, madrassas (Islamic schools of learning),and monuments dating from the Fatimid through to the Mameluke eras. This is where you'll find the labyrinth shopping souk of Khan el-Khalili where coppersmiths and artisans still have their tiny workshops, and stalls are laden with ceramics, textiles, spice, and perfume.Surrounding the market is a muddle of roads, home to some of the most beautiful preserved architecture of the old Islamic empires. There is a wealth of history here to explore. Visit Al-Azhar Mosque and the dazzling Sultan Hassan Mosque,and make sure you climb to the roof of the ancient medieval gate of Bab Zuweila for the best minaret-speckled panoramas across the district.</string>
+
+    <string name="saint_info">One of the oldest monasteries in the world, St. Catherine"s stands at the foot of Mount Sinai, where Moses is said to have received the Ten Commandments.This desert monastery is home to an incredible collection of religious iconography, art, and manuscripts (some of which can be seen in the on-site museum) as well as the home of the burning bush.For most visitors here, a trip to St. Catherine's also involves a hike up Mount Sinai to see sunrise or sunset.Take the camel path for the easy route or climb the famous Steps of Repentance if you want better views.</string>
+
+
+</resources>
